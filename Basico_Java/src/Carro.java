@@ -64,6 +64,5 @@ public class Carro {
     }
 
     public void setVelocidade(int velocidade) {
-        this.velocidade = velocidade;
     }
 }
