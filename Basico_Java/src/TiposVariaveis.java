@@ -5,7 +5,7 @@ public class TiposVariaveis {
         //Tipos primitivos
         //Classe String
 
-        
+
         double salrarioMinimo = 2500;
 
         short numeroCurto = 1;
