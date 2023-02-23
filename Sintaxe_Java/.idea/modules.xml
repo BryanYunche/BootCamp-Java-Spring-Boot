@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basico_Java/Basico_Java.iml" filepath="$PROJECT_DIR$/Basico_Java/Basico_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sintaxe_Java.iml" filepath="$PROJECT_DIR$/.idea/Sintaxe_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema-Smart-TV/Sistema-Smart-TV.iml" filepath="$PROJECT_DIR$/Sistema-Smart-TV/Sistema-Smart-TV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+    </modules>
+  </component>
+</project>
