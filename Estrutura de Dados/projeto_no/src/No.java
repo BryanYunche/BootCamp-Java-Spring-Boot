@@ -1,24 +1,24 @@
-public class No {
+public class No<T> {
     //O atributo do tipo String conterá o valor do Nó vigente.
-    private String conteudo;
+    private T conteudo;
     //Esse atributo guarda a referência do próximo Nó.
-    private No proximo;
+    private No<T> proximo;
 
     //Construtor da Classe
-    public No(String conteudo){
+    public No(T conteudo){
         this.conteudo = conteudo;
         this.proximo = null;
     }
 
-    public String getConteudo() {
+    public T getConteudo() {
         return conteudo;
     }
 
-    public void setConteudo(String conteudo) {
+    public void setConteudo(T conteudo) {
         this.conteudo = conteudo;
     }
 
-    public No getProximo() {
+    public No<T> getProximo() {
         return proximo;
     }
 
